@@ -1,2 +1,26 @@
-# Weather-Application
-This web-based weather application fetches real-time weather data using WeatherAPI based on user input. It displays temperature, humidity, and conditions with a dark mode toggle, saving preferences via local storage. Built with HTML, CSS, and JavaScript, it ensures a responsive and user-friendly experience.
+# **Weather-Application**
+## Project Title 
+**Weather Application** – A web-based app that fetches real-time weather data using WeatherAPI.
+
+## Features
+- Get real-time weather updates by entering a location.
+- Displays temperature, humidity, and weather conditions.
+- Dark mode toggle for better user experience.
+- Simple and responsive UI.
+  
+## Technologies Used
+- Frontend: HTML, CSS, JavaScript
+- API: WeatherAPI
+## Installation & Setup
+**Clone the repository:**
+```bash
+git clone https://github.com/KeerthiPadamata/Weather-Application.git
+```  
+## Usage
+- Enter a city or location in the input box.
+- Click Get Weather to fetch live weather data.
+- Click Dark Mode Toggle (☀️/🌙) to switch themes.
+
+## API Key Setup
+- Get a free API key from WeatherAPI.
+- Replace const apiKey = "your_api_key_here"; in app.js.,
