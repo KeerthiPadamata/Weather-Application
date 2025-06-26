@@ -1,6 +1,6 @@
 # **Weather-Application**
 ## Project Title 
-**Weather Application** – A web-based app that fetches real-time weather data using WeatherAPI.
+**Sky Test🥶🌤️⛈️** – A web-based app that fetches real-time weather data using WeatherAPI.
 
 ## Features
 - Get real-time weather updates by entering a location.
