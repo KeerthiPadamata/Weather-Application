@@ -4,7 +4,7 @@ document.getElementById("weatherForm").addEventListener("submit", async function
     const locationInput = document.getElementById("locationInput");
     const weatherResult = document.getElementById("weatherResult");
     const location = locationInput.value.trim();
-    const apiKey = "2ccbb3fd28eb47bebd061451252602";
+    const apiKey = "APIKEY";
     const url = `https://api.weatherapi.com/v1/current.json?key=${apiKey}&q=${location}&aqi=yes`;
 
     // Clear previous result & show loading state
