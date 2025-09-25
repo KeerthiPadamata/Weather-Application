@@ -25,4 +25,4 @@ git clone https://github.com/KeerthiPadamata/Weather-Application.git
 - Get a free API key from WeatherAPI.
 - Replace const apiKey = "your_api_key_here"; in app.js.,
 ## Demo
-Click [here](https://weather-application-r9dkjo0he-keerthipadamatas-projects.vercel.app/) to view the demo.
+Click [here](https://weather-application-hazel-kappa.vercel.app/) to view the demo.
